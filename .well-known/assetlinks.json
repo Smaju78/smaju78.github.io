@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.smaju78.bongboi",
+        "sha256_cert_fingerprints": ["59:E4:42:4A:6C:11:86:1F:7F:28:59:EF:88:7E:65:76:10:C6:1A:F2:18:8C:04:3F:5F:A9:10:86:BD:A5:57:D9"]
+      }
+    }]
