@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.smaju78.bongboi",
-        "sha256_cert_fingerprints": ["59:E4:42:4A:6C:11:86:1F:7F:28:59:EF:88:7E:65:76:10:C6:1A:F2:18:8C:04:3F:5F:A9:10:86:BD:A5:57:D9"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.smaju78.bongboi",
+      "sha256_cert_fingerprints": [
+        "59:E4:42:4A:6C:11:86:1F:7F:28:59:EF:88:7E:65:76:10:C6:1A:F2:18:8C:04:3F:5F:A9:10:86:BD:A5:57:D9"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.smaju78.surghor",
+      "sha256_cert_fingerprints": [
+        "BB:DA:CE:B1:CD:A6:26:ED:67:A9:4B:3C:00:ED:52:49:6D:A4:54:19:A6:13:04:43:BD:BD:D5:60:3D:2E:56:05"
+      ]
+    }
+  }
+]
